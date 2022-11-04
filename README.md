@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bora</h1>
-<h3 align="center">An ambigious software develper from Turkey</h3>
+<h3 align="center">An ambigious software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varolbora5&label=Profile%20views&color=0e75b6&style=flat" alt="varolbora5" /> </p>
 
